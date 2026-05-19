@@ -1,0 +1,5 @@
+Hello, this is a sample text file for the mmap task.
+It contains various letters including lowercase a and uppercase A.
+Anna and Alexander walked along an avenue at dawn.
+A cat sat on a mat and ate an apple.
+Alga university assignment - practice 4, task 4-2.
